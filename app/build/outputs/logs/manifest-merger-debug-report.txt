@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/src/main/AndroidManifest.xml:2:1-20:12
+ADDED from /Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/src/main/AndroidManifest.xml:2:1-22:12
 	package
 		ADDED from /Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/src/main/AndroidManifest.xml:3:5-43
 		INJECTED from /Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/src/main/AndroidManifest.xml
@@ -14,7 +14,7 @@ ADDED from /Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/src/main/Andr
 		INJECTED from /Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/src/main/AndroidManifest.xml
 application
-ADDED from /Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/src/main/AndroidManifest.xml:5:5-18:19
+ADDED from /Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/src/main/AndroidManifest.xml:5:5-20:19
 MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-v4:25.1.0] /Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-fragment:25.1.0] /Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/AndroidManifest.xml:25:5-20
@@ -48,6 +48,14 @@ category#android.intent.category.LAUNCHER
 ADDED from /Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/src/main/AndroidManifest.xml:15:17-77
 	android:name
 		ADDED from /Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/src/main/AndroidManifest.xml:15:27-74
+activity#com.lasalle.mdpa.lgarci.quiz.ResultActivity
+ADDED from /Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/src/main/AndroidManifest.xml:18:9-52
+	android:name
+		ADDED from /Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/src/main/AndroidManifest.xml:18:19-49
+activity#com.lasalle.mdpa.lgarci.quiz.QuestionActivity
+ADDED from /Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/src/main/AndroidManifest.xml:19:9-63
+	android:name
+		ADDED from /Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/src/main/AndroidManifest.xml:19:19-51
 uses-sdk
 INJECTED from /Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/AndroidManifest.xml:21:5-23:78

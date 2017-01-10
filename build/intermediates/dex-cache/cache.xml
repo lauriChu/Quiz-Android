@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_4a814844e613b9e98dd01009d4a9cd808b92b154/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_46186582750e32c9e966f233babc4207d1bc3589/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_c04ff38e21bbbcc664882885597029a89f735a26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_c8d1894fd6a1fd536d602c1ac2590a8fcc460126/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_6d8e61d1ff5090d95ab87ec4e55c52e279f9b00c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_f2a28d6de8b20d97022fddf6c000ece6b2d88a0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_c5cbf2c69d7d3c59240a9f2223ef7b25d0094d36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="82cc05e4ab92e562beeb0dc7a868c87ceaf71ef6">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3da308677ded57e73d3b6316abed094722aa26e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_8e85792ba5bc1dd718aef08467e24b3ad1479a1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0111aad3a003a80621b6cf9929be20526422f77a">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c99a10e3c28c2dc94497741aee6d5a5ea23a2418/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_3e3571682480ca4662c1b9172b47cf2508ceec35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_bd6f9493f0fc1a00052601c9f74cbacdee8d4019/classes.dex" />
+    </item>
+
+</items>

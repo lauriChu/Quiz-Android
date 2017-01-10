@@ -21,6 +21,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="com.lasalle.mdpa.lgarci.quiz.ResultActivity" />
+        <activity android:name="com.lasalle.mdpa.lgarci.quiz.QuestionActivity" />
     </application>
 
 </manifest>

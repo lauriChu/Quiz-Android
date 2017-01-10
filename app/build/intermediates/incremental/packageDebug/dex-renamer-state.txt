@@ -1,0 +1,7 @@
+#Tue Jan 10 21:50:11 CET 2017
+base.0=/Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c99a10e3c28c2dc94497741aee6d5a5ea23a2418
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3da308677ded57e73d3b6316abed094722aa26e3/classes.dex
+base.1=/Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3da308677ded57e73d3b6316abed094722aa26e3
+file.0=/Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c99a10e3c28c2dc94497741aee6d5a5ea23a2418/classes.dex

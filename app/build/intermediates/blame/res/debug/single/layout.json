@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/build/intermediates/res/merged/debug/layout/activity_question.xml",
+        "source": "/Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/src/main/res/layout/activity_question.xml"
+    },
+    {
         "merged": "/Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
         "source": "/Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_mode_bar.xml"
     },
@@ -130,6 +134,10 @@
     {
         "merged": "/Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
         "source": "/Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/build/intermediates/res/merged/debug/layout/activity_result.xml",
+        "source": "/Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/src/main/res/layout/activity_result.xml"
     },
     {
         "merged": "/Users/FurruPi/Documents/MDPA/Android/Projects/quiz/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
